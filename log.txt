@@ -1,0 +1,20 @@
+Ali
+28.10.2022 17:36
+Kart numarası yanlış girildi.Ali   at atm_uygulamasi.Program.Main(String[] args) in C:\Users\Ali\Documents\Patika\Uygulamalar\ATM\Program.cs:line 36
+**********
+Ali
+28.10.2022 17:40
+Bakiye görüntülendi.Ali   at atm_uygulamasi.Program.balance(kartSahib currentUser) in C:\Users\Ali\Documents\Patika\Uygulamalar\ATM\Program.cs:line 127
+**********
+Ali
+28.10.2022 17:40
+Para yatırma işemi yapıldı.Ali   at atm_uygulamasi.Program.deposit(kartSahib currentUser) in C:\Users\Ali\Documents\Patika\Uygulamalar\ATM\Program.cs:line 185
+**********
+Ali
+28.10.2022 17:41
+İşlem red edildi. (Bakiye yetersiz)Ali   at atm_uygulamasi.Program.withdraw(kartSahib currentUser) in C:\Users\Ali\Documents\Patika\Uygulamalar\ATM\Program.cs:line 153
+**********
+Ali
+28.10.2022 17:41
+Para çekme işlemi yapıldı.Ali   at atm_uygulamasi.Program.withdraw(kartSahib currentUser) in C:\Users\Ali\Documents\Patika\Uygulamalar\ATM\Program.cs:line 159
+**********
